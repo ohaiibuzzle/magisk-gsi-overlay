@@ -6,5 +6,5 @@ Magisk module to inject overlays for PHH-Treble GSI images
 2. Extract the zip content somewhere
 3. Replace `system/product/overlay` contents with your own overlays
 4. Modify `build.prop` as needed
-5. Zip the entire thing back with `zip -r9 module.zip * -x .git README.md`
+5. Zip the entire thing back with `zip -r9 module.zip * -x .git README.md **placeholder`
 6. Push the `module.zip` to your phone & flash

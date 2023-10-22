@@ -1,6 +1,6 @@
-id=overlay_module
-name=GSI Overlay Module
+id=magisk-gsi-overlay
+name=Magisk GSI Overlay Module
 version=v1.0.0
 versionCode=1
 author=OHaiiBuzzle
-description=Overlay module for PHH-Treble GSI images
+description=Magisk module to inject overlays for PHH-Treble GSI images
